@@ -1,2 +1,2 @@
 # leetcode
-record my leetcode
+record my leetcode  everyday
