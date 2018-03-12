@@ -1,5 +1,5 @@
 
-
+![img](https://github.com/chosecode/leetcode/blob/master/%E4%B8%80%E4%BA%9B%E7%AE%97%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%E5%92%8C%E5%85%B7%E4%BD%93%E8%AE%B2%E8%A7%A3/dijkstra.jpg)
 //这是问题的图解，，，，，构建三个hash表来存储一些信息根据题目
 
     //首先构造从起点抵达当前节点的距离hash表
