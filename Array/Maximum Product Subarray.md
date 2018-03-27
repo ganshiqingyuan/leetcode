@@ -28,6 +28,7 @@ var maxProduct = function(nums) {
 };
 
 
-//»÷°Ü100%¡£¡£¡£»ù±¾Ë¼ÏëÊÇ£¬£¬ÓÀÔ¶±£Áô×îÐ¡ÖµºÍ×î´óÖµ£¬£¬ÒòÎª×îÐ¡ÖµÅöµ½¸ºÊý¾Í»á±ä³É×î´óÖµ£¬£¬×î´óÖµ±ä³É¸ºÊý¾Í»á±ä³É×îÐ¡Öµ£¬£¬¸½ÉÏ»÷°Ü100% µÄÍ¼£¬£¬¿´µ½beats100%¾ÍÊÇË¬°¡
+//å‡»è´¥100%ã€‚ã€‚ã€‚åŸºæœ¬æ€æƒ³æ˜¯ï¼Œï¼Œæ°¸è¿œä¿ç•™æœ€å°å€¼å’Œæœ€å¤§å€¼ï¼Œï¼Œå› ä¸ºæœ€å°å€¼ç¢°åˆ°è´Ÿæ•°å°±ä¼šå˜æˆæœ€å¤§å€¼ï¼Œï¼Œæœ€å¤§å€¼å˜æˆè´Ÿæ•°å°±ä¼šå˜æˆæœ€å°å€¼ï¼Œï¼Œé™„ä¸Šå‡»è´¥100% çš„å›¾ï¼Œï¼Œçœ‹åˆ°beats100%å°±æ˜¯çˆ½å•Š
 
 
+![img1](https://github.com/chosecode/leetcode/blob/master/leetcodeimg/Maximum%20Product%20Subarray.png)
